@@ -58,13 +58,13 @@
   yearPrinted: "1556"
   yearWritten: null
   premiered: null
-  form: verse
+  form: prose
   genre: tragedy
   genreQid: Q80930
   region: Holy Roman Empire
   regionQid: Q12548
   project: Camerarius digital
-  status: TXT
+  status: tei, published
   licenceNotes: In the public domain, CC0 1.0 possible
   source:
     title: Camerarius digital

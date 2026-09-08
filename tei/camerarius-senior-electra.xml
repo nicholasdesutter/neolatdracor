@@ -75,9 +75,9 @@
           <person xml:id="electra" sex="FEMALE">
             <persName>Electra</persName>
           </person>
-          <person xml:id="chorus" sex="FEMALE" role="chorus">
-            <persName>Chorus</persName>
-          </person>
+          <personGrp xml:id="chorus" sex="FEMALE" role="chorus">
+            <name>Chorus</name>
+          </personGrp>
           <person xml:id="chrysothemis" sex="FEMALE">
             <persName>Chrysothemis</persName>
           </person>
